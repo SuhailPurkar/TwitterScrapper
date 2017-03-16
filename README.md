@@ -20,7 +20,7 @@ Authentication
 Head over to <a href="https://apps.twitter.com/">Twitter</a> and make a profile to get your authentification keys and access tokens.
 
 ## License
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)   <img src="https://www.filesilo.co.uk/wp-content/uploads/2014/11/twthon.jpg" width="100">
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)   <img src="https://www.filesilo.co.uk/wp-content/uploads/2014/11/twthon.jpg" width="150">
 
 TwitterScrapper is licensed under the GNU General Public License.
 
